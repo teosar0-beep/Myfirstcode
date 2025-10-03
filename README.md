@@ -1,2 +1,2 @@
 # Myfirstcode
-Noway
+trying to push Hello word
